@@ -1,15 +1,13 @@
 <?php
 $lang = array(
-	'pavadinimas' => 'Lietuviškas Website',
-	'namai' => 'Namai',
+    'pavadinimas' => 'Lietuviškas Website',
+    'namai' => 'Namai',
 
 
-
-
-	'pilies_tiltas' => 'Pilies (Karlo) tiltas',
-	'pilies_koordinates' => 'Koordinatės: 55.70855740129403, 21.128876209259033',
-	'pilies_adresas' => 'Objekto adresas: Pilies gatvė per Danės upę, Klaipėda, Lietuva',
-	'pilies_paragrafas' => '
+    'pilies_tiltas' => 'Pilies (Karlo) tiltas',
+    'pilies_koordinates' => 'Koordinatės: 55.70855740129403, 21.128876209259033',
+    'pilies_adresas' => 'Objekto adresas: Pilies gatvė per Danės upę, Klaipėda, Lietuva',
+    'pilies_paragrafas' => '
 	<p>
 	1826 m. kelto per Danę vietoje buvo pastatytas naujas medinis varstomas tiltas, kuris sujungė
 	tarp teatro ir piliavietės įrengtą naująją prekyvietę su sparčiai besivystančia šiaurine miesto
@@ -45,13 +43,12 @@ $lang = array(
 	</p>',
 
 
-
-	'skulptura_zvejas' => 'Skulptūra „Žvejas“',
-	'skulptura_zvejas_koordinates' => 'Koordinatės: 55.70996075496206, 21.13155179318244',
-	'skulptura_zvejas_adresas' => '
+    'skulptura_zvejas' => 'Skulptūra „Žvejas“',
+    'skulptura_zvejas_koordinates' => 'Koordinatės: 55.70996075496206, 21.13155179318244',
+    'skulptura_zvejas_adresas' => '
 	<p>Objekto adresas: Danės skveras, Klaipėda, Lietuva</p>
 	<p>Savivaldybė: Klaipeda</p>',
-	'skulptura_zvejas_paragrafas' => '
+    'skulptura_zvejas_paragrafas' => '
 	<p>
 	Prie Danės krantinės, netoli Rotušės pastato stovi viena seniausių pokarinės Klaipėdos skulptūrų „Žvejas“. Skulptūros autorius Kazimieras Kisielis, architektas Petras Šadauskas.
 	Monumentali „Žvejo“ figūra, bangos iškelta į kelių metrų aukštį, stovi ant keturkampio pagrindo. Skulptūros pagrindui pasirinkta vietos uoliena – gilinant uosto įplauką iš Kuršių marių dugno ties žiemos uostu iškeltas riedulys. Manyta, kad vandenyje ilgai išgulėjęs akmuo skilinės. Atlikus tyrimus nuspręsta, kad akmuo tinkamas, ir „Žvejas“ buvo pastatytas veidu į miestą.
@@ -61,11 +58,11 @@ $lang = array(
 	Skulptūra gražiai įkomponuota į aplinką, vasarą čia čiurlena fontanas.
 	</p>
 ',
-	'paminklas_borusija' => 'Paminklas „Borussia“ (Borusija)',
-	'paminklas_borusija_koordinates' => 'Koordinatės: 55.70855740129403, 21.128876209259033',
-	'paminklas_borusija_adresas' => '<p>Objekto adresas: Pilies gatvė per Danės upę</p>
+    'paminklas_borusija' => 'Paminklas „Borussia“ (Borusija)',
+    'paminklas_borusija_koordinates' => 'Koordinatės: 55.70855740129403, 21.128876209259033',
+    'paminklas_borusija_adresas' => '<p>Objekto adresas: Pilies gatvė per Danės upę</p>
 <p>Savivaldybė: Klaipeda</p>',
-	'paminklas_borusija_paragrafas' => '
+    'paminklas_borusija_paragrafas' => '
 	<p>1907 m. pergalės prieš Napoleoną 100 metų sukakties proga buvo atidengtas paminklas „Borussia“, kuris dar buvo vadinamas Tautiniu paminklu (Nationaldenkmal). Klaipėda tuo metu buvo vienintelis Prūsijos miestas, kurio nebuvo okupavusi Napoleono kariuomenė ir kuriame prieglobstį rado Prūsijos karalius Frydrichas Vilhelmas III su karaliene Luize. Paminklas iškilo prieš Rotušę – buvusius pirklio Consentijaus namus, kuriuose 1807–1808 m. gyveno karališkoji pora ir kurie buvo tapę laikinąja Prūsijos rezidencija.</p>
 	<p>Paminklą sukūrė Šarlotenburgo (Vokietija) skulptorius profesorius Peter Breuer. Projektą koregavo pats karalius Vilhelmas II, dalyvavęs ir atidarymo iškilmėse.</p>
 	<p>Bronzinė keturių metrų aukščio skulptūra buvo atgabenta traukiniu iš Berlyno. Prūsiją (kuri lotyniškai buvo vadinama „Borussia“) simbolizavo moteris antikiniais rūbais, su romėnišku šalmu ant galvos. Skulptūra Borussia kairėje rankoje laikė skydą ir ietį (prie ieties buvo pritvirtinta lentelė su užrašu: „Borussia“), o dešinėje – durklą.</p>
@@ -73,12 +70,12 @@ $lang = array(
 	<p>Buvę klaipėdiečiai mena, jog paminklas „Borussia“ buvo nuverstas 1923 balandžio 8 naktį. (Lietz G. und H. Unserer Abendteuerliches Leben, 1994). Atstatytas 1939 m. Yra duomenų, jog 1945 metų gegužę ši skulptūra dar stovėjo. Sovietmečiu paminklas sunaikintas.</p>
 	<p>Dabar „Borusijos“ vietoje stovi „Žvejo“ paminklas.</p>
 ',
-	'klaipedos_rotuse' => 'Klaipėdos Rotušė',
-	'klaipedos_rotuse_koordinates' => 'Koordinatės: 55.710102, 21.131261',
-	'klaipedos_rotuse_adresas' => '
+    'klaipedos_rotuse' => 'Klaipėdos Rotušė',
+    'klaipedos_rotuse_koordinates' => 'Koordinatės: 55.710102, 21.131261',
+    'klaipedos_rotuse_adresas' => '
 	<p>Objekto adresas: Danės gatvė 17, Klaipėda, Lietuva</p>
 	<p>Savivaldybė: Klaipeda</p>',
-	'klaipedos_rotuse_paragrafas' => '
+    'klaipedos_rotuse_paragrafas' => '
 	<p>Klaipėdos rotušė šiame pastate Danės g. 17 (buv. Luisenstrasse 4) įsikūrė 1846 metais.</p>
 	<p>1254 m. Klaipėdai buvo suteikta savivalda, tačiau ilgus amžius miestas neįstengė pasistatyti rotušės.</p>
 	<p>XVI a., kai Klaipėda išgyveno pirmąjį ekonominį pakilimą, magistratas prašė vyriausybės leisti pasistatydinti mūrinę rotušę. Rotušė buvo pastatyta prie magistralinių Turgaus ir Tiltų gatvių sankryžos, bet vėliau, manoma, XVII a. antroje pusėje sudegė.</p>
@@ -101,24 +98,24 @@ $lang = array(
 	<p>Priešais rotušę stovi Borusijos paminklo vietoje 1971 m. atidengtas paminklas „Žvejas“ (skulptorius K. Kisielius, architektas P. Šadauskas).</p>
 	',
 
-	'senieji_sandeliai' => 'Sandėlis „Germania“',
-	'senieji_sandeliai_koordinates' => 'Koordinatės: 55.708983, 21.13077',
-	'senieji_sandeliai_adresas' => '
+    'senieji_sandeliai' => 'Sandėlis „Germania“',
+    'senieji_sandeliai_koordinates' => 'Koordinatės: 55.708983, 21.13077',
+    'senieji_sandeliai_adresas' => '
 	<p>Objekto adresas: Žvejų gatvė 12, Klaipėda, Lietuva</p>
 	<p>Savivaldybė: Klaipeda</p>“',
-	'senieji_sandeliai_paragrafas' => '
+    'senieji_sandeliai_paragrafas' => '
 	<p>1871 m. pastatytas „Germania“ žemės ūkio produktų sandėlis. Danės uosto komplekso dalis. Greta jo buvo palikta erdvė iš upės imti vandenį gaisro atveju.</p>
 	<p>Dabar (2018 m.) šiame pastate įsikūręs restoranas „Katpėdėlė“. Ši vieta itin mėgstama ir tarp miestiečių.</p>
 	<p>Objektas pažymėtas jūrinio paveldo ženklu. Šiuo ženklu ženklinami su jūriniu paveldu susiję objektai – pastatai ir buvusių pastatų vietos, krantinės, takai, laivai ir kita. Taip siekiama pabrėžti Klaipėdos kaip jūrinio miesto išskirtinumą. Kartu išryškinamas ir Lietuvos kaip jūrinės valstybės veidas.</p>
 ',
 
 
-	'silkiu-sandelis' => 'Silkių sandėlis',
-	'silkiu-sandelis_koordinates' => 'Koordinatės: 55.709225, 21.13121',
-	'silkiu-sandelis_adresas' => '
+    'silkiu-sandelis' => 'Silkių sandėlis',
+    'silkiu-sandelis_koordinates' => 'Koordinatės: 55.709225, 21.13121',
+    'silkiu-sandelis_adresas' => '
 	<p>Objekto adresas: Žvejų gatvė 8, Klaipėda, Lietuva</p>
 	<p>Savivaldybė: Klaipeda</p>',
-	'silkiu-sandelis_paragrafas' => '
+    'silkiu-sandelis_paragrafas' => '
 	<p>1861 m. pastatytas „Dange“ silkių sandėlis. Danės (Dangės) upės uosto komplekso dalis. Greta jo buvo palikta erdvė iš upės imti vandenį gaisro atveju.</p>
 	<p>Dabar (2018 m.) šiame pastate įsikūręs muzikinis klubas „Bluez“.</p>
 	<p>Objektas pažymėtas jūrinio paveldo ženklu. Šiuo ženklu ženklinami su jūriniu paveldu susiję objektai – pastatai ir buvusių pastatų vietos, krantinės, takai, laivai ir kita. Taip siekiama pabrėžti Klaipėdos kaip jūrinio miesto išskirtinumą. Kartu išryškinamas ir Lietuvos kaip jūrinės valstybės veidas.
@@ -126,12 +123,12 @@ $lang = array(
 ',
 
 
-	'laivininkystes-pastatas' => 'Roberto Meyhoefer laivininkystės pastatas',
-	'laivininkystes-pastatas_koordinates' => 'Koordinatės: 55.70943957824504, 21.132501535215624',
-	'laivininkystes-pastatas_adresas' => '
+    'laivininkystes-pastatas' => 'Roberto Meyhoefer laivininkystės pastatas',
+    'laivininkystes-pastatas_koordinates' => 'Koordinatės: 55.70943957824504, 21.132501535215624',
+    'laivininkystes-pastatas_adresas' => '
 	<p>Objekto adresas: Žvejų g. 2, Klaipėda, Lietuva</p>
 	<p>Savivaldybė: Klaipeda</p>',
-	'laivininkystes-pastatas_paragrafas' => '
+    'laivininkystes-pastatas_paragrafas' => '
 	<p>1920 m. įsteigtos Roberto Meyhoeferio laivininkystės ir kelionių firmos pastatas Žvejų g. 2 (buv. Fischerstrasse 12) buvo pastatytas 1923 m. Šis pastatas statytas pagal Čikagos dangoraižių projektus. Tai buvo pirmasis naujosios statybos karkasinis pastatas Lietuvoje. Pastato projektas bei statyba buvo kuruojama paties prezidento Antano Smetonos, susižavėjusio Čikagos statiniais. Tai buvo pirmasis daugiaaukštis Klaipėdoje, kuriame įrengtas ir pirmasis liftas.</p>
 	<p>Pastatas susideda iš dviejų kontrasto principu gretinamų dalių – aukštesniojoje vyrauja vertikalūs, o žemesniojoje – horizontalūs skaidymai. Jaučiasi ekspresionizmo bei kitų XX a. pradžios stilių įtaka.</p>
 	<p>Pastatas pastatytas vandeningame grunte, vos dešimt metrų nuo Danės, todėl po pamatais sukalti mediniai poliai. Pastate panaudotos naujos garsą izoliuojančios medžiagos ir naujoviškos ramstinės konstrukcijos perdangoms, todėl vidines pertvaras buvo galima išdėstyti laisvai. Statybos nebuvo užbaigtos iki galo – atsisakyta dviejų aukštų, nes pritrūko lėšų.
@@ -142,12 +139,12 @@ $lang = array(
 ',
 
 
-	'birzos-tiltas' => 'Biržos tiltas',
-	'birzos-tiltas_koordinates' => 'Koordinatės: 55.71003494273272, 21.133526916347023',
-	'birzos-tiltas_adresas' => '
+    'birzos-tiltas' => 'Biržos tiltas',
+    'birzos-tiltas_koordinates' => 'Koordinatės: 55.71003494273272, 21.133526916347023',
+    'birzos-tiltas_adresas' => '
 	<p>Objekto adresas: Biržos tiltas, Klaipėda, Lietuva, Memel</p>
 	<p>Savivaldybė: Klaipeda</p>',
-	'birzos-tiltas_paragrafas' => '
+    'birzos-tiltas_paragrafas' => '
 	<p>Plieninis varstomasis tiltas per Danės upę Klaipėdoje tarp Herkaus Manto ir Tiltų gatvių. Pakeliamas 50 laipsnių kampu iš abiejų pusių. Įtrauktas į Lietuvos Respublikos nekilnojamųjų kultūros vertybių registrą.</p>
 	<p>Iki XVIII a. antrosios pusės medinis Biržos tiltas turėjo strateginę reikšmę: dešiniajame upės krante jį saugojo supiltas ravelinas. Tiltas miestui duodavo nemažų pajamų: kiekvienas praplaukiantis laivas privalėjo mokėti tilto pakėlimo mokestį – tilto viduryje būdavo atidaroma nedidelė anga, kad pralįstų burlaivių stiebai. Iki XIX a. vidurio tai buvo vienintelis tranzitinis tiltas. Jam buvo skiriama daug dėmesio – tiltas buvo daug sykių rekonstruotas, perstatytas.</p>
 	<p>1877 m. pagal architekto Mejerio projektą pradėtas statyti naujas varstomas metalinis tiltas ant mūrinių atramų. Metalinė dalis suprojektuota inžinieriaus Bernšteino iš Vysbadeno. Tiltą statė Gdansko firma. Atidarytas 1879 metais.</p>
@@ -156,27 +153,24 @@ $lang = array(
 ',
 
 
-	'miesto-bankas' => 'Mėmelio taupomoji kasa',
-	'miesto-bankas_koordinates' => 'Koordinatės: 55.709887, 21.133894',
-	'miesto-bankas_adresas' => '
+    'miesto-bankas' => 'Mėmelio taupomoji kasa',
+    'miesto-bankas_koordinates' => 'Koordinatės: 55.709887, 21.133894',
+    'miesto-bankas_adresas' => '
 	<p>Objekto adresas: Tiltų gatvė 1, Klaipėda, Lietuva</p>
 	<p>Savivaldybė: Klaipeda</p>',
-	'miesto-bankas_paragrafas' => '
+    'miesto-bankas_paragrafas' => '
 	<p>Prie Biržos tilto, Tiltų g. 1 (buv. Fr. Vilhelmo g. 22a) vietoje, stovi 1915 metais pastatytas geltonos spalvos namas. Šis pastatas buvo pirmasis miesto bankas. Pastato fasade matyti Klaipėdos miesto herbas. Mažas berniukas, esantis ant herbo, yra Kupidonas, simbolizuojantis, jog tai yra romantiškas miestas. Kitoje pastato pusėje skulptūra „Puodynė su pinigais“, simbolizuojanti čia buvusią pirmąją „Memelio taupomąją kasą“.</p>
 	<p>Dviejų aukštų su mansardiniu stogu namas. Pastato architektūra atspindi antrajame dešimtmetyje jau išblėstantį jugendo stilių bei ateinančio “tėvynės” stiliaus tendencijas: namo kampus apkabina erkeriai ir dinamiško piešinio augaliniai ornamentai. Pradinė pastato paskirtis – taupomųjų kasų veiklai vystyti. Pirmajame aukšte buvo operacijų salė, tarnybinės patalpos, seifas–saugykla, antrajame ir mansardiniame aukštuose – butai, priklausę miestui. Todėl namo fasadas buvo papuoštas kartušu ir herbu. Tarybiniais metais (1971) namas rekonstruotas, namo pirmojo aukšto dalis išgriauta, padarytas praėjimo kelias pėstiesiems. Paplatinti mansardos langai, įrengta daugiau gyvenamų kambarių. Pirmasis aukštas pritaikytas prekybai.</p>
 ',
 
 
-
-
-
-	'burlaivis-meridianas' => 'Burlaivis „Meridianas“',
-	'burlaivis-meridianas_koordinates' => 'Koordinatės: 55.71033751157576, 21.135002374649048',
-	'burlaivis-meridianas_adresas' => '
+    'burlaivis-meridianas' => 'Burlaivis „Meridianas“',
+    'burlaivis-meridianas_koordinates' => 'Koordinatės: 55.71033751157576, 21.135002374649048',
+    'burlaivis-meridianas_adresas' => '
 	<p>Objekto adresas: Danės (Dangės) krantinė netoli Biržos tilto, Klaipėda, Lietuva
     </p>
 	<p>Savivaldybė: Klaipeda</p>',
-	'burlaivis-meridianas_paragrafas' => '
+    'burlaivis-meridianas_paragrafas' => '
     <p>Mokomasis burlaivis „Meridianas“ pastatytas 1948 metais Suomijoje, Turku laivų statykloje kaip kontribucija Tarybų Sąjungai po Antrojo pasaulinio karo kartu su kitais 48 tokio tipo burlaiviais. Jų išlikę labai nedaug. Kone labiausiai pasisekė Estijon patekusiam tokio tipo burlaiviui. Dabar jis puikuojasi Taline. Mūsiškis, tekęs Klaipėdos jūreivystės mokyklai, buvo daugelio pokario būsimųjų laivavedžių, kapitonų pirmasis laivas. Jame jūros krikštą yrą gavę žinomi jūrų kapitonai: Vilius Pakalniškis, Zenonas Kaupas, Ričardas Lučka.</p>
     <p>„Meridianas“ – barkentina, tai 3–5 stiebų burlaivis su tiesiosiomis burėmis ant priekinio stiebo (fokstiebio) ir įstrižosiomis ant kitų stiebų (grotstiebio ir bizanstiebio). Laivo ilgis (su bušpritu) – 51,70 m, plotis 8,75 m, maksimali grimzlė 3,45 m, krovumas 300 t, greitis plaukiant su burėmis iki 8 mazgų (iki 14,8 km). Į 3–4 mėnesių praktiką plaukdavo 50 kursantų ir 8 įgulos nariai.</p>
     <p>„Meridianas“ kaip mokomasis burlaivis nustojo veikęs 1968 metais.
@@ -194,25 +188,24 @@ $lang = array(
 ',
 
 
-
-	'druskos-sandelis' => 'Druskos sandėlis',
-	'druskos-sandelis_koordinates' => 'Koordinatės: 55.710562, 21.136838',
-	'druskos-sandelis_adresas' => '
+    'druskos-sandelis' => 'Druskos sandėlis',
+    'druskos-sandelis_koordinates' => 'Koordinatės: 55.710562, 21.136838',
+    'druskos-sandelis_adresas' => '
 	<p>Objekto adresas: Turgaus gatvė 37A, Klaipėda, Lietuva</p>
 	<p>Savivaldybė: Klaipeda</p>',
-	'druskos-sandelis_paragrafas' => '
+    'druskos-sandelis_paragrafas' => '
 	<p>Danės (Dangės) upės uosto komplekso dalis. Druskos sandėlis buvo pastatytas 1770–1780 metais virš dalies lietuvių Mikalojaus bažnyčios pamatų. 1857–1874 metais druskos sandėlyje įsikūrė silkių rūšiavimo ir kokybės kontrolės įstaiga.</p>
 	<p>Dabar (2018 m.) šioje vietoje rekonstruoti sandėliai ant Danės (Dangės) kranto, virto jaukiais būstais bei komercinėmis patalpomis. Pastatuose restauruotos saugotinos kaip kultūros paveldas vidaus medinių konstruktyvinių rėmų konstrukcijos. Vietoje nuardyto nevertingo raudono mūro kiauto, išorines sienas puošia klinkerio plytelių apdaila ir būdingi uostamiesčio architektūrai mediniai fachverkai, atkurti pagal išlikusius fragmentus ir analogus. Stogas uždegtas molio čerpėmis.</p>
 	<p>Objektas pažymėtas jūrinio paveldo ženklu. Šiuo ženklu ženklinami su jūriniu paveldu susiję objektai – pastatai ir buvusių pastatų vietos, krantinės, takai, laivai ir kita. Taip siekiama pabrėžti Klaipėdos kaip jūrinio miesto išskirtinumą. Kartu išryškinamas ir Lietuvos kaip jūrinės valstybės veidas.</p>
 
 ',
 
-	'jono-kalnelis' => 'Jono kalnelis',
-	'jono-kalnelis_koordinates' => 'Koordinatės: 55.70978042202655, 21.139726017196608',
-	'jono-kalnelis_adresas' => '
+    'jono-kalnelis' => 'Jono kalnelis',
+    'jono-kalnelis_koordinates' => 'Koordinatės: 55.70978042202655, 21.139726017196608',
+    'jono-kalnelis_adresas' => '
 		<p>Objekto adresas: Turgaus gatvė 37, Klaipėda, Lietuva</p>
 		<p>Savivaldybė: Klaipeda</p>',
-	'jono-kalnelis_paragrafas' => '
+    'jono-kalnelis_paragrafas' => '
 		<p>Klaipėdos (Memelio) miesto-tvirtovės laikus primenantis gynybinis pylimas, vadinamas Jono kalneliu, iškilęs XVII a. paskutiniuose dešimtmečiuose, kai miestas buvo juosiamas olandiško tipo įtvirtinimais.</p>
 		<p>Istoriniai šaltiniai liudija, kad 1627–1629 m., vadovaujant inžinieriui K. Rozui (Ch. Rose), miestą imta juosti olandiško tipo įtvirtinimais. Buvo supilti apie 3,5 m aukščio pylimai ir bastionai, aplink kuriuos iškasti grioviai – fosos. Pagal savo dydį miesto įtvirtinimai priskiriami didžiųjų karališkųjų tvirtovių kategorijai. Darbai buvo baigti tik XVII a. pab. – XVIII a. pradžioje. Vėliau pylimai rekonstruoti dar ir XVIII a. viduryje. To meto Klaipėdos (Memelio) įtvirtinimų sistema buvo sudėtinga. Kadangi miestą iš rytų ir pietų pusių apjuosė bastioniniai įtvirtinimai, o iš šiaurės saugojo Naujoji Danės upė, todėl patekti į miestą buvo galima tik pro Tilto, Kūlių (Akmenų) ir Malūnų vardais vadinamus vartus. Pastarieji du buvo įrengti po žemių pylimu.</p>
 		<p>Miestas XVII–XVIII a. iškentė švedų ir rusų kariuomenių užėmimus. Šie bastioniniai įtvirtinimai mena ir garsaus rusų karvedžio Aleksandro Suvorovo vardą, kuris rusų armijai užėmus Klaipėdą (Memelį) per Septynerių metų karą ėjo komendanto pareigas.</p>
@@ -224,28 +217,23 @@ $lang = array(
 	',
 
 
-
-
-
-	'pelenynas' => 'Pelenynas',
-	'pelenynas_koordinates' => 'Koordinatės: 55.711481, 21.142528',
-	'pelenynas_adresas' => '
+    'pelenynas' => 'Pelenynas',
+    'pelenynas_koordinates' => 'Koordinatės: 55.711481, 21.142528',
+    'pelenynas_adresas' => '
 		<p>Objekto adresas: Dangės (Pelenyno) krantinė, Klaipėda, Lietuva</p>
 		<p>Savivaldybė: Klaipeda</p>',
-	'pelenynas_paragrafas' => '
+    'pelenynas_paragrafas' => '
 		<p>Pelenynas – istorinis Klaipėdos (Memelio) miesto priemiestis, į rytus nuo Jono kalnelio, istoriniuose šaltiniuose minimas jau nuo XVII a. II pusės. Vystantis pramonei, XVIII a. II pusėje mieste pradėti kurti fabrikai, pirmasis – odos fabrikas įkurtas Frydricho priemiestyje 1721 m., o 1771 m. prie Dangės upės, už miesto gynybinių įtvirtinimų, įsteigtas potašo fabrikas. Šiame fabrike buvo perdirbami iš Lietuvos ir Lenkijos suvežti pelenai stiklo gamybai, daromas potašas eksportui. XVIII a. priemiestis imtas vadinti Pelenyno vardu. Pelenyne daugiausiai gyveno darbininkai, kurie be įprastų darbų taip pat užsiėmė žvejyba, beveik kiekviena šeima turėjo valtį, tad žuvis buvo dažnas patiekalas ant jų stalo. Pagal vietinių pasakojimus, iki antrojo pasaulinio karo Dangės upėje buvo gausu ungurių. Medinis tiltelis, jungiantis Pelenyną su Klaipėda, primą kartą rusų žemėlapyje pavaizduotas 1758 m., iki to laiko susisiekimas tarp Pelenyno ir Klaipėdos buvo tik vandeniu. Priemiestis sudegė 1854 m. per didįjį miesto gaisrą, bet Pelenyno pavadinimas išliko iki pat XX a. vidurio. XIX a. pab. Pelenynas tapo klaipėdiečių pramogų vieta - užšalusiuose gynybiniuose grioviuose ir Dangėje buvo čiuožinėjama, nuo 1924 m. čia pradėta žaisti ir ledo rutulį, kurio aikštelės buvo netoli ravelino.</p>
 		<p>Iki mūsų dienų (2017) išliko vienintelis Pelenyno laikus menantis pastatas, jame įsikūręs Klaipėdos irklavimo centras. Irklavimas viena pirmųjų oficialių sporto šakų Klaipėdoje, atsiradusi dar 1885 metais. Tarpukaryje Klaipėdoje veikė net du irkluotojų klubai - „Santara“ ir „Neptūnas“.</p>
 	',
 
 
-
-
-	'trasu-fabrikas' => 'Trąšų fabrikas „Union“',
-	'trasu-fabrikas_koordinates' => 'Koordinatės: 55.715533, 21.158855',
-	'trasu-fabrikas_adresas' => '
+    'trasu-fabrikas' => 'Trąšų fabrikas „Union“',
+    'trasu-fabrikas_koordinates' => 'Koordinatės: 55.715533, 21.158855',
+    'trasu-fabrikas_adresas' => '
 		<p>Objekto adresas: Dangės krantinė, Klaipėda, Lietuva</p>
 		<p>Savivaldybė: Klaipeda</p>',
-	'jono-kalnelis_paragrafas' => '
+    'jono-kalnelis_paragrafas' => '
 		<p>Lietuvoje chemijos pramonė atsirado XIX a. pab. ir gamino daugiausia dažus ir lakus, įvairias druskas, rūgštis, vaistus, kosmetikos prekes. Dauguma šių įmonių buvo mažos. 1869 m. dešiniajame Danės krante vietos firma A. Scharfenorth & Co. pastatė nedidelį kaulų klijų, dažų ir chemijos produktų fabriką. 1872 m. jį įsigijo ir modernizavo Ščecino (Lenkija) akcinė bendrovė „UNION“, 1873 m. fabrike pradėta gaminti sieros rūgštis ir superfosfatas. Žaliavos buvo atsivežtos iš Ispanijos, JAV ir net Australijos (fosfatai, sieros rūgšties amonis, apatitai irk t.) Fabrikas gaminius daugiausiai pardavė Rytprūsiuose ir Lietuvoje. Dirbo pelningai, 1891 m. parduota 14,6 tūkstančiai tonų trašų, o 1900 m. “Union” pagamino jau 36 tūkstančius tonų trašų, tačiau tais pačiais metais kilęs gaisras beveik sunaikino fabriką. Draudimui padengus nuostolius fabrikas atstatytas ir nuo 1902 m. iki I-ojo pasaulinio karo dirbo visu pajėgumu. Pirmojo pasaulinio karo išvakarėse fabrike dirbo apie 300 darbininkų. Prasidėjus Antrajam pasauliniam karui dėl žaliavų ir akmens anglies trūkumo fabrikas veiklą nutraukė. Pokaryje dėl nestabilios padėties akcininkai atnaujinti fabriko veiklos nesiryžo. 1921-1922 m. žiemą neveikiančiam fabrikui „UNION“ priklausiusioje teritorijoje buvo įkurtas dėžių fabrikas. Veikė neilgai, ji sužlugdė Klaipėdos medžio pramonės krizė.</p>
 		<p>Fabrikas „UNION“ veiklą atnaujino 1927 m. Priklausomai nuo metų laiko, fabrike dirbo 200-500 darbininkų, buvo gaminamas prekiniu ženklu „Pingvinas“ pažymėtas superfosfatas, amonio superfosfatas, boro superfosfatas, sieros rūgštis, natrio silicio fluoridas. Už savo produktus, fabrikas 1930 m. Lietuvos žemės ūkio parodoje Kaune apdovanotas aukso medaliu. Pats brangiausiais fabriko gaminys – porceliano ir stiklo gamybai naudotas natrio silicio fluoridas – buvo eksportuojamas į Vokietiją, Angliją, JAV, Japoniją ir Kiniją.</p>
 		<p>Įmonės teritorija užėmė 123 tūkst. kv. metrų, kuriuose stovėjo apie dvidešimt pastatų. Fabrikui priklausė ir 400 metrų Danės krantinės. Kadangi upe buvo vežiojami turistai, ant kranto stovinčių statinių architektūrai buvo skiriama daugiau dėmesio. Palei krantinę stovėjo vienas puošnus administracinis pastatas ir septyni suglausti fachverkiniai sandėliai, galais atgręžti į upės pusę. Taip jie užstojo neišvaizdų gamybinį kiemą. Iš kieme stovėjusių pastatų išsiskyrė septynių aukštų fachverkiniai bokštiniai rezervuarai, kuriuose krentančio vandens srovėmis buvo atšaldomos sieros dujos. Bokštai buvo trisdešimties metrų aukščio ir penkių metrų skersmens. Virš fabriko kilo 65 metrų kaminas. Kiti įmonės pastatai buvo žemesni mūriniai arba fachverkiniai. Trąšų fabrikas bėgiais buvo sujungtas su miesto pramoniniu geležinkeliu.</p>
@@ -255,13 +243,12 @@ $lang = array(
 	',
 
 
-
-	'velnio-akmuo' => 'Tauralaukio Velnio akmuo',
-	'velnio-akmuo_koordinates' => 'Koordinatės: 55.749187, 21.144352',
-	'velnio-akmuo_adresas' => '
+    'velnio-akmuo' => 'Tauralaukio Velnio akmuo',
+    'velnio-akmuo_koordinates' => 'Koordinatės: 55.749187, 21.144352',
+    'velnio-akmuo_adresas' => '
 		<p>Objekto adresas: Klaipėdos gatvė, Tauralaukis, Klaipėda, Lietuva</p>
 		<p>Savivaldybė: Klaipeda</p>',
-	'velnio-akmuo_paragrafas' => '
+    'velnio-akmuo_paragrafas' => '
 		<p>4 metrų ilgio, 3,5 metrų pločio, apie 50 tonų svorio Velnio akmuo yra valstybės saugomas respublikinės reikšmės gamtos paminklas. Akmuo yra Klaipėdos miesto šiaurinėje dalyje, Tauralaukyje, Danės upės kairiajame krante.</p>
 		<p>XX amžiaus pradžios lietuvių tyrinėtojai pabrėžė, jog šis akmuo minimas dar kryžiuočių kronikose 1253 metais, aprašant Mėmelio sienas. Senosios istorijos tyrinėtojai Velnio akmenį sieja su aukomis seniesiems baltų dievams (baltų mitologijoje velnio atitikmuo yra velinas), nes ant akmens yra išlikęs dubuo – tarsi iškaltas šulinukas, į kurį buvo dedamos aukos. Kadangi akmuo yra buvusiose kuršių žemėse, neabejojama, kad protėviai tame dubenyje, be kitų aukų, smilkė ir gintarą.</p>
 		<p>Tauralaukio akmens padavimai:</p>
@@ -271,37 +258,30 @@ $lang = array(
 	',
 
 
-	'botanikos-sodas' => 'KU Botanikos sodas',
-	'botanikos-sodas_koordinates' => 'Koordinatės: 55.751387, 21.135708',
-	'botanikos-sodas_adresas' => '
+    'botanikos-sodas' => 'KU Botanikos sodas',
+    'botanikos-sodas_koordinates' => 'Koordinatės: 55.751387, 21.135708',
+    'botanikos-sodas_adresas' => '
 		<p>Objekto adresas: Kretingos g. 92, Klaipėda, Lietuva</p>
 		<p>Savivaldybė: Klaipeda</p>',
-	'botanikos-sodas_paragrafas' => '
+    'botanikos-sodas_paragrafas' => '
 		<p>1991 m. įkūrus Klaipėdos universitetą ir suformavus biologijos, ekologijos bei rekreacijos studijų programas, iškilo būtinybė sukurti mokslinių tyrimų bazę. Dėl šios priežasties 1993 m. Dangės upės slėnyje, buvusio Didžiojo Tauralaukio dvaro žemėse įkurtas Klaipėdos universiteto Botanikos sodas. Dvaras neišlikęs, tačiau botanikos sodo teritorijoje galim apžiūrėti dvaro kapinaites, kuriose palaidotas dvaro savininkas Evaldas fon Mirbachas. Jo kapo vietą žymi akmeninė stela su įrašu. Šis didikas – vienas masonų ložės "Memphis" Klaipėdoje įkūrėjų. Dar vienas žymus paveldo objektas Botanikos sode - tai reliktinis kelias - XIX a. vieno seniausių krašto kelių fragmentas. Botanikos sodo įkūrimo iniciatorius ir pirmasis direktorius buvo prof. A. M. Olšauskas. Bendras teritorijos plotas 9,3 ha. KU Botanikos sodas bendradarbiauja su Lietuvos ir pasaulio botanikos sodais bei arboretumais, vykdo sėklų ir žaliųjų auginių mainus, kaupia auginamų augalų sėklų fondą. Sodo teritorijoje natūraliai auga daugiau nei 250 augalų rūšių, o viso parke auga apie  40 tūkst. augalų. Vertingi augalai kaupiami ir eksponuojami keturiose kolekcijose: dendrologinėje, žolinių dekoratyvinių augalų, rožių ir vaistinių-prieskoninių augalų. Kuriamos pajūrio kopų augalų ir svogūninių augalų kolekcijos, vijoklinių augalų ekspozicija, įrengtas etnografinis gėlių darželis. Botanikos sodo pasididžiavimas – Japonijos dviskiautis ginkmedis (Ginklo biloba). Botanikos sodas įsikūręs teritorijoje, kuri pasižymi išskirtinėmis klimatinėmis sąlygomis: palyginus su kitomis Lietuvos vietovėmis, čia būna aukštesnė oro temperatūra, didesnis kritulių kiekis, ilgesnis augalų vegetacijos periodas. 2000 m. LR Aplinkos ministerijos įsakymu Botanikos sodas paskelbtas saugomu gamtos objektu. 2012 m. per Botanikos sodo teritoriją nutiestas dviračių takas.
 		</p>
 	',
 
 
-	'karalienes-azuolas' => 'Karalienės Luizės ąžuolas',
-	'karalienes-azuolas_koordinates' => 'Koordinatės: 55.75269067173266, 21.13975843649291',
-	'karalienes-azuolas_adresas' => '
+    'karalienes-azuolas' => 'Karalienės Luizės ąžuolas',
+    'karalienes-azuolas_koordinates' => 'Koordinatės: 55.75269067173266, 21.13975843649291',
+    'karalienes-azuolas_adresas' => '
 		<p>Objekto adresas: Klaipėdos gatvė, Klaipėda (Tauralaukis), Lietuva</p>
 		<p>Savivaldybė: Klaipeda</p>',
-	'karalienes-azuolas_paragrafas' => '
+    'karalienes-azuolas_paragrafas' => '
 		<p>Istorinis Mažojo Tauralaukio parkas. Ši vieta primena ne tik karališkuosius uostamiesčio metus, kai čia rezidavo Prūsijos karalienė Luizė, bet ir dar senesnį laiką – baltų laikotarpį. Tauralaukio ąžuolynas šalia Danės upės vingio veši mažiausiai 300 metų – maždaug prieš tiek laiko jis jau užfiksuotas senuosiuose žemėlapiuose. Prieš 200 metų, kai Klaipėda metams buvo tapusi Prūsijos karalystės sostine, šio parko takeliais mėgo vaikščioti karalienė Luizė su vaikais. Atvykdavo karieta ar atplaukdavo valtele ir čia vaikščiodavo, po ąžuolais valgydavo pietus. Šią vietą ji lygino su Berlyno Tiergarteno ąžuolynu, parku. Vienas parke augantis ąžuolas iki šių dienų tebevadinamas Luizės ąžuolu. XIX–XX amžių sankirtoje parke buvo pastatytas paminklinis akmuo karalienei atminti. </p>
 		<p>Tauralaukyje karalius mena dar atsekama medžiais apsodintoji aikštė, kur buvo šaudykla, karuselė, supilta nedidelė sala su „pilimi“. Aikštėje vešėjo dekoratyvūs krūmai, malonius kvapus skleidė gausiai žydėję jazminai, gražius įspūdžius žadino gausybė gėlių. Netoliese viliojo restoranas, altana, aikštelės su poilsio suolais. Itin šią aikštę buvo pamėgę Prūsijos karališkosios šeimos vaikai, kurie su tėvais napoleonmečiu gyveno Klaipėdoje. Iš atsiminimų sužinome, kokį džiaugsmą patirdavo princai, pamėgę pasikarstyti po aukštaūgius medžius, kiek linksmybių suteikdavo jiems karuselė. Net mažosios princesės Šarlotė su Aleksandra įsitaisydavusios karuselės dviejose kėdėse, kurias ratu suko du žirgai, ant kurių atsisėsdavę princai Wilhelmas ir Fricas, būsimieji šalies valdovai... Gėlėmis ir ypač jazminais itin džiaugėsi Šarlotė, būsimoji Rusijos caro Nikolajaus I sutuoktinė. Šio jaukaus kampelio niekada jie neišbraukė iš savo širdies. Tapę valdovais ar valdovų žmonomis, dar ne kartą jie buvo čia užsukę.</p>
 	',
 
-	
 
-
-
-
-
-
-
-	'akmena' => 'Akmena (upė)',
-	'akmena_paragrafas' => '
+    'akmena' => 'Akmena (upė)',
+    'akmena_paragrafas' => '
 		<p>Akmena-Danė – upė vakarų Lietuvoje. Prasideda prie Mažųjų Žalimų kaimo, 6 km į p.v. nuo Salantų, teka per Kretingos rajoną, Kretingos miestą, Klaipėdos rajoną ir Klaipėdoje įteka į Kuršių marias.
 		</p>
 		<p>55–57 km nuo žiočių ir Klaipėdos mieste upės vaga sureguliuota. Vidurupis teka eroziniu slėniu, gausu riedulingų rėvų. Žemiau Kretingos teka plačiu senslėniu. Slėnio vid. plotis 400–500 m, šlaitų aukštis 5–10 m.</p>
@@ -312,9 +292,8 @@ $lang = array(
 	',
 
 
-
-	'upes-zuvys' => 'Danės upės žuvys',
-	'upes-zuvys_paragrafas' => '
+    'upes-zuvys' => 'Danės upės žuvys',
+    'upes-zuvys_paragrafas' => '
 		<p><strong>Lydeka – Esox lucius</strong></p>
 		<p><strong>Kuoja – Rutillus rutillus</strong></p>
 		<p><strong>Karšis – Abramis brama</strong></p>
@@ -335,21 +314,19 @@ $lang = array(
 	',
 
 
-	
-
-	'tulzys' => 'Tulžys',
-	'tulzys_paragrafas' => '
+    'tulzys' => 'Tulžys',
+    'tulzys_paragrafas' => '
 		<p>Retai žiemojantys. Perinti, traukianti, žiemojanti rūšis. Tulžys yra trumpauodegis, ilgasnapis, kiekk didesnis už žvirblį. Jį lengva pažinti iš ryškių spalvų. Patino ir patelės kūno viršutinė pusė ryškiai žaliai mėlyna. Galva ir sparnų dengiamosios plunksnos su tamsesniais dryželiais. Antuodegis mėlynas, blizgantis. Gerklė balsva, po akimis ir virš jų didelės rudos dėmės. Visa apatinė kūno pusė ryškiai ruda. Snapas juosvas. Kojos ryškiai raudonos. Rainelė ruda. Jauniklių spalva ne tokia ryški. Snapas ir kojos rusvos. Jaunikliai išsirita pliki. Jų žiotys mėsos spalvos. Lietuvoje gyvena nominalinis tulžio porūšis Alcedo atthis atthis. Paplitimas. Eurazijoje paplitęs nuo Atlanto iki Ramiojo vandenyno. Šiaurėje arealas siekia Švediją, Suomių įlanką, Volgos aukštupį, pietinį Uralą, Jenisejaus aukštupį, Užbaikalę, Ochotsko jūrą. Pietuose arealas tęsiasi iki okeaninių pietrytinių ir pietinių Azijos pakrančių, Irako, Mažosios Azijos, Viduržemio jūros pakrančių. Gyvena šiaurvakarių Afrikoje, Britų, Zondo salose. Žiemoja vakarinėje ir pietinėje arealo dalyse. Lietuvoje neretas, tačiau ne visur aptinkamas. Dažnesnis pietrytinėje ir rytinėje Lietuvos dalyse</p>
 	',
 
 
-	'baltasis-garnys' => 'Didysis Baltasis Garnys',
-	'baltasis-garnys_paragrafas' => '
+    'baltasis-garnys' => 'Didysis Baltasis Garnys',
+    'baltasis-garnys_paragrafas' => '
 		<p>Retai žiemojantys. Retai perinti, migruojanti, kartais žiemojanti rūšis. Mūsų šalyje dažniausiai mattoma kovo—lapkričio mėn. Apsaugos būklė. Rūšis įrašyta į PD 1 priedo ir LRK sąrašus (4 (I) kategorija). Perinčios popukacijos būklė palanki - tai plintanti rūšis. Tačiau gausa per paskutinius kelerius metus stabilizavosi ir nebedidėja. Paplitimas ir gausa. Pirmą kartą Lietuvoje paukštis aptiktas 1959 m. Metekų ež. Per paskutinius du dešimtmečius reguliariai pastebimas įvairiose šalies vietose. Įprastas Nemuno deltoje, žuvininkystės tvenkiniuose. Kartais matomos iki kelių šimtų paukščių sankaupos. Perinčių pastebėta Elektrėnų, Pagėgių, Zarasų savivaldybėse. Buveinė. Dažniausiai paukštis aptinkamas sekliuose vandens telkiniuose, pievose, pakrančių medžiuose. Lietuvoje peri aukštuose medžiuose, bendrose kolonijose su pilkuoju garniu. Skiriamieji požymiai. L - 85-100 cm. Veisimosi apdaru atrodo kaip didelė mažojo baltojo garnio kopija. Skiriasi ūgiu, ilgesniu kaklu ir kojomis, kurios būna ištisai juosvos, o pavasarį juodos, su gelsvomis blauzdomis. Veisimosi metu nuo krūtinės ir nugaros būna nukarusios puošnios, skaidytos plunksnos. Snapas pavasarį juosvas, bet ne perėjimo metu ištisai geltonas. Lietuvoje rudenį yra pastebėta didžiųjų baltųjų garnių su juodu snapu ir raudonomis kojomis </p>
 	',
 
-	'pilkasis-garnys' => 'Didysis pilkasis garnys',
-	'pilkasis-garnys_paragrafas' => '
+    'pilkasis-garnys' => 'Didysis pilkasis garnys',
+    'pilkasis-garnys_paragrafas' => '
 		<p>Didysis pilkasis garnys (Ardea herodias) – garninių (Ardeidae) šeimos paukštis. Paplitęs visoje Šiaurės ir Centrineje Amerikoje taip pat Karibuose ir Galapaguose, išskyrus dykumas ir kalnus, kur nėra vandeningų brastų. Jie yra panašūs į Europinį pilkąjį garnį. Jis yra didesnis už Šiaurės Amerikos garnį.
 
 		Ši rūšis paprastai gyvena kolonijomis, medžiuose netoli ežerų arba pelkių; kartu su kitomis rūšimis arba garniais. Šios grupės vadinamos garnių gūštynais. Didieji pilkieji garniai suka didelius pailgus lizdus, į kuriuos patelės padeda 3-5 blankiai mėlynus kiaušinius. Jaunikliai maitinami atrijamu maistu.
@@ -360,42 +337,41 @@ $lang = array(
 	',
 
 
-
-	'paprastasis-paukstvanagis' => 'Paprastasis paukštvanagis',
-	'paprastasis-paukstvanagis_paragrafas' => '
+    'paprastasis-paukstvanagis' => 'Paprastasis paukštvanagis',
+    'paprastasis-paukstvanagis_paragrafas' => '
 		<p>Paprastasis paukštvanagis, bet įprastai Lietuvoje vadinamas paukštvanagiu (Accipiter nisus) – vanaginių (Accipitridae) šeimos, tikrųjų vanagų (Accipiter) genties plėšriųjų paukščių rūšis.
 		Patino viršutinė kūno pusė pilka, įvairių atspalvių. Viršugalvis juosvas, pakaušyje yra baltos dėmelės. Antakis baltas. Plasnojamosios ir vairuojamosios plunksnos skersai dryžuotos. Apatinė kūno pusė balsva arba rusva su skersiniu rudu raštu. Snapas melsvai pilkas. Kojos geltonos, nagai juodi. Patelės viršutinė dalis rusva, apatinė – balta, išmarginta skersinėmis rudomis juostelėmis. Pauodegys baltas. Jauniklių viršutinė kūno dalis rusva su baltomis dėmelėmis pakaušyje. Apatinė kūno pusė rusva arba balsva, skersai rudai dryžuota.
 		Gyvena nedideliuose miškuose. Dažnas, aptinkamas ištisus metus.
 		</p>
 	',
 
-	'nendrine-starta' => 'Nendrinė starta',
-	'nendrine-starta_paragrafas' => '
+    'nendrine-starta' => 'Nendrinė starta',
+    'nendrine-starta_paragrafas' => '
 		<p>startinių (Emberizidae) šeimos paukštis. Patino galva juoda, apykaklė ir „ūsai" nuo snapo pamato balti. Nugarinė pusė tamsiai ruda su tamsiais brūkšneliais. Antuodegis pilkas, uodega juodai ruda, kraštinės plunksnos su baltomis dėmelėmis. Snapas tamsus, juosvas. Mėgsta tupėti ant aukštesnių nendrių ir krūmų.
 
 		Gyvena vandens pakraščiuose. Lizdą krauna ant žemės tarp senų nendrių. Deda 5-6 kiaušinius, kurie rausvos spalvos, išmarginti tamsiai rudomis dėmelėmis. Peri 13-14 dienų. Jaunikliai lizde išbūna 11-13 dienų. Išveda dvi vadas. Lietuvoje dažna rūšis. Atskrenda kovo mėn., išskrenda spalio mėn.</p>
 	',
 
-	'paprastoji-lelija' => 'Paprastoji vandens lelija ',
-	'paprastoji-lelija_paragrafas' => '
+    'paprastoji-lelija' => 'Paprastoji vandens lelija ',
+    'paprastoji-lelija_paragrafas' => '
 		<p>Lūgninių ( Nymphaeaceae) šeimos, vandens lelijų (Nymphaea) genties augalas.
 		Auga stovinčio ar lėtai tekančio vandens telkiniuose iki 4 m gylyje. Tai daugiamečiai, storais šakniastiebiais augalai. Paprastoji vandens lelija yra įrašyta į Lietuvos raudonąją knygą.</p>
 	',
 
 
-	'paprastoji-lugne' => 'Paprastoji lūgnė',
-	'paprastoji-lugne_paragrafas' => '
+    'paprastoji-lugne' => 'Paprastoji lūgnė',
+    'paprastoji-lugne_paragrafas' => '
 		<p>Lūgninių (Nymphaeaceae) šeimos daugiametis vandens augalas. Šakniastiebis storas, mėsingas, ilgas; lapai dideli, lygiakraščiai; žiedai dideli, geltoni; vaisius – sultinga, žalia dėžutė.
 		Lietuvoje labai dažna, auga stovinčiuose ar lėtai tekančiuose vandenyse, ežeruose, tvenkiniuose, žydi birželio – rugpjūčio mėnesiais. Vaistingoji žaliava – šakniastiebiai. Turi daug alkaloidų, kurie pasižymi spermicidinėmis savybėmis, todėl vartojama kaip kontraceptinė priemonė, taip pat trichomoniniam kolitui, odos grybelinėms ligoms gydyti.
 		</p>
 	',
 
-	'danges-uostas' => 'Dangės (Danės) uostas',
-	'danges-uostas_koordinates' => 'Koordinatės: 55.70857725883607, 21.12898982066679',
-	'danges-uostas_adresas' => '
+    'danges-uostas' => 'Dangės (Danės) uostas',
+    'danges-uostas_koordinates' => 'Koordinatės: 55.70857725883607, 21.12898982066679',
+    'danges-uostas_adresas' => '
 		<p>Objekto adresas: Danės upė, Klaipėda, Lietuva</p>
 		<p>Savivaldybė: Klaipeda</p>',
-	'danges-uostas_paragrafas' => '
+    'danges-uostas_paragrafas' => '
 		<p>Nuo XVI a. vidurio iki XVIII a. antrosios pusės Klaipėdos uostas tilpo Dangės upėje. Jos krantinėse koncentravosi uosto ir prekybos infrastruktūra: miesto svarstyklės, sankrovos aikštės ir sandėliai, silkių rūšiavimo pastatas, linų svarstyklės. XVIII a. viduryje prie upės buvo pastatyta ir Klaipėdos pirklių gildijos birža.</p>
 		<p>Iki XVIII a. vidurio upės vaga buvo palyginti sekli. Ją ne sykį gilino ir tiesino. XVIII a. viduryje pastačius du Dangės molus, vėliau pavadintus Šiaurės ragu ir Pietų ragu, pagaliau sutvarkyta įplauka. Krantinės irgi daug sykių buvo aukštinamos – užpilamos burlaivių atgabentu balastu.</p>
 		<p>Tik XVIII a. antroje pusėje, uostui nebeišsitenkant Dangės upėje, dalis jo infrastruktūros pamažu buvo perkelta į dabartinio uosto vietą prie Kuršių marių. Tačiau iki XIX a. pab. prie upės uosto išliko daugelis pramonės įmonių: lentpjūvės, burlaivių (vėliau garlaivių) statyklos, medienos sankrovos aikštės, miesto komunalinės įmonės. Dangės upės uostas nuo upės žiočių buvo išsitęsęs beveik 3 km, iki pat 1874–1875 m. per upę pastatyto geležinkelio tilto. Dangės upe iki pat XX a. vidurio laivai įplaukdavo į miesto vidurį.</p>
@@ -404,23 +380,19 @@ $lang = array(
 		',
 
 
-
-	'nuotykai' => 'Kurkite nuotykius patys!',
-	'nuotykai_paragrafas' => '
-		<p>Pažinkite savo kraštą iš arčiau su šeima, draugais! Rinkitės unikalų, interaktyvų maršrutą Danės upe kanojomis ir baidarėmis, kuris tikrai neleis nuobodžiauti! Emocijų kupinas nuotykis, kur jūsų laukia pažintis su įdomiausių vietų istorija.
-		</p>
-		<p>Keliauti ir atrasti paprasta interaktyvus maršrutas Danės upe, kur jūsų laukia puikios emocijos, o 25 maršrute aktyvūs taškai, kurie padės susipažinti su aplinkinių vietų istorija, gamta.
-		</p>
+    'nuotykai' => 'Kurkite nuotykius patys!',
+    'nuotykai_paragrafas' => '
+		<p>Pažinkite savo kraštą iš arčiau su šeima ir draugais! Rinkitės unikalų, interaktyvų maršrutą Danės upe kanojomis ar baidarėmis, kuris tikrai neleis nuobodžiauti! Emocijų kupinas nuotykis, kur jūsų laukia pažintis su įdomiausių vietų istorija – 25 maršrute esantys aktyvūs taškai padės sužinoti įdomiausius faktus!
+        </p>
 	',
-	
-	
 
-	'nuoroda' => 'Nuorodos šaltinis',
-	'finansavimas' => 'Projektas įgyvendinamas gavus finansavimą',
-	'aprasymas' => 'Apibūdinimas apie mano website',
-	'lang_lt' => 'Lietviškai',
-	'lang_en' => 'Angliškai',
-	'lang_ru' => 'Rusiškai',
-	'lang_ge' => 'Vokiškai',
+
+    'nuoroda' => 'Nuorodos šaltinis',
+    'finansavimas' => 'Projektas įgyvendinamas gavus finansavimą',
+    'aprasymas' => 'Apibūdinimas apie mano website',
+    'lang_lt' => 'Lietviškai',
+    'lang_en' => 'Angliškai',
+    'lang_ru' => 'Rusiškai',
+    'lang_ge' => 'Vokiškai',
 
 );

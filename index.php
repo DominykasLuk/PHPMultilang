@@ -13,13 +13,8 @@
         </div>
     </header>
 
+
     <div class="container" style="margin-top: 100px;">
-        <div class="row justify-content-center gap-3 mb-5">
-            <iframe width="100%" height="400" src="https://www.youtube.com/embed/mWtXc8lGtRE"
-                    title="YouTube video player" frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                    allowfullscreen></iframe>
-        </div>
         <div class="row justify-content-center gap-3 mb-5">
             <div class="card" style="width: 18rem;">
                 <a target="_blank" href="pilies-tiltas.php"><img class="card-img-top" style="height: 10rem"
