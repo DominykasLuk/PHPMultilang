@@ -1,0 +1,26 @@
+.splide__slide img {
+  width: 100%;
+  height: auto;
+}
+
+.splide__slide {
+  opacity: 0.3;
+}
+
+.splide__slide.is-active {
+  opacity: 1;
+}
+
+a.btn.btn-primary {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+}
+.card-body {
+  min-height: 266px;
+}
+
+.flag{
+  width: 50px;
+  height: 100%;
+}
