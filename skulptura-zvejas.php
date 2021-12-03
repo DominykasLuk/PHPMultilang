@@ -109,7 +109,6 @@
                     </span>
                 <?php echo $lang['paminklas_borusija_paragrafas'] ?>
 
-                <iframe width="100%" height="315" src="https://www.youtube.com/embed/mWtXc8lGtRE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
                 <a style="opacity: 0.3;" href="http://www.krastogidas.lt/objektai/17-skulptura-zvejas"><?php echo $lang['nuoroda'] ?></a><br>
                 <a style="opacity: 0.3;" href="http://www.krastogidas.lt/objektai/18-paminklas-borussia-borusija"><?php echo $lang['nuoroda'] ?></a>
